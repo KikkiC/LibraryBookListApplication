@@ -1,0 +1,3 @@
+book1,121,1,true,
+book2,234,2,true,
+book3,345,3,true,
